@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869269084561",
+    "project_id": "remedy-kelompok2-if570-c",
+    "storage_bucket": "remedy-kelompok2-if570-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869269084561:android:9f949e4485323763c02230",
+        "android_client_info": {
+          "package_name": "com.uts.remedy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4zFxzDyCD1PF0d-Bz4DoUFfeyHUaqv3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
